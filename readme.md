@@ -1,6 +1,4 @@
-Here’s the updated README with your requested reference included:
 
----
 
 # Tweet-Audit: AI-Powered Twitter/X Archive Analysis
 
